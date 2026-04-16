@@ -35,3 +35,4 @@ window.APP_CONFIG = {
 - A paleta foi refinada para um visual mais elegante e com melhor contraste.
 - A página foi ajustada para mobile.
 # landingPage-IngridMKT
+# landingoPage-ingridMKT
